@@ -1,4 +1,0 @@
-CA复现：我、郭谨
-TA复现：我
-GC+CA：我、郭谨
-CA+：CA with enhanced channel attention——我
