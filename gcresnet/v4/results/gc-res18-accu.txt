@@ -1,0 +1,120 @@
+[001  03000] |Loss: 0.000  
+[001  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.371175,Accuracy:2674/10000 = 26.740000 
+[002  03000] |Loss: 0.000  
+[002  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.283173,Accuracy:4076/10000 = 40.760000 
+[003  03000] |Loss: 0.000  
+[003  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.252557,Accuracy:4703/10000 = 47.030000 
+[004  03000] |Loss: 0.000  
+[004  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.233446,Accuracy:4999/10000 = 49.990000 
+[005  03000] |Loss: 0.000  
+[005  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.228588,Accuracy:5203/10000 = 52.030000 
+[006  03000] |Loss: 0.000  
+[006  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.217712,Accuracy:5480/10000 = 54.800000 
+[007  03000] |Loss: 0.000  
+[007  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.220575,Accuracy:5560/10000 = 55.600000 
+[008  03000] |Loss: 0.000  
+[008  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.237045,Accuracy:5428/10000 = 54.280000 
+[009  03000] |Loss: 0.000  
+[009  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.248644,Accuracy:5436/10000 = 54.360000 
+[010  03000] |Loss: 0.000  
+[010  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.247896,Accuracy:5572/10000 = 55.720000 
+[011  03000] |Loss: 0.000  
+[011  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.262966,Accuracy:5515/10000 = 55.150000 
+[012  03000] |Loss: 0.000  
+[012  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.281959,Accuracy:5431/10000 = 54.310000 
+[013  03000] |Loss: 0.000  
+[013  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.281523,Accuracy:5543/10000 = 55.430000 
+[014  03000] |Loss: 0.000  
+[014  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.286733,Accuracy:5548/10000 = 55.480000 
+[015  03000] |Loss: 0.000  
+[015  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.286957,Accuracy:5614/10000 = 56.140000 
+[016  03000] |Loss: 0.000  
+[016  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.287216,Accuracy:5634/10000 = 56.340000 
+[017  03000] |Loss: 0.000  
+[017  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.290193,Accuracy:5657/10000 = 56.570000 
+[018  03000] |Loss: 0.000  
+[018  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.289765,Accuracy:5690/10000 = 56.900000 
+[019  03000] |Loss: 0.000  
+[019  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.291548,Accuracy:5693/10000 = 56.930000 
+[020  03000] |Loss: 0.000  
+[020  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.299736,Accuracy:5743/10000 = 57.430000 
+[021  03000] |Loss: 0.000  
+[021  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.290973,Accuracy:5744/10000 = 57.440000 
+[022  03000] |Loss: 0.000  
+[022  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.294113,Accuracy:5700/10000 = 57.000000 
+[023  03000] |Loss: 0.000  
+[023  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.293263,Accuracy:5754/10000 = 57.540000 
+[024  03000] |Loss: 0.000  
+[024  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.296339,Accuracy:5762/10000 = 57.620000 
+[025  03000] |Loss: 0.000  
+[025  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.293568,Accuracy:5802/10000 = 58.020000 
+[026  03000] |Loss: 0.000  
+[026  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.302739,Accuracy:5675/10000 = 56.750000 
+[027  03000] |Loss: 0.000  
+[027  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.297482,Accuracy:5738/10000 = 57.380000 
+[028  03000] |Loss: 0.000  
+[028  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.306524,Accuracy:5689/10000 = 56.890000 
+[029  03000] |Loss: 0.000  
+[029  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.305025,Accuracy:5697/10000 = 56.970000 
+[030  03000] |Loss: 0.000  
+[030  06000] |Loss: 0.000  
+
+Validation set: Average loss:0.306773,Accuracy:5721/10000 = 57.210000 

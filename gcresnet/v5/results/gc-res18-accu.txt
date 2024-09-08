@@ -1,0 +1,60 @@
+
+Validation set: Average loss:0.134891,Accuracy:2186/10000 = 21.860000 
+
+Validation set: Average loss:0.114429,Accuracy:3274/10000 = 32.740000 
+
+Validation set: Average loss:0.096566,Accuracy:4184/10000 = 41.840000 
+
+Validation set: Average loss:0.089598,Accuracy:4578/10000 = 45.780000 
+
+Validation set: Average loss:0.078441,Accuracy:4993/10000 = 49.930000 
+
+Validation set: Average loss:0.081049,Accuracy:5069/10000 = 50.690000 
+
+Validation set: Average loss:0.078192,Accuracy:5257/10000 = 52.570000 
+
+Validation set: Average loss:0.081319,Accuracy:5277/10000 = 52.770000 
+
+Validation set: Average loss:0.084358,Accuracy:5297/10000 = 52.970000 
+
+Validation set: Average loss:0.088195,Accuracy:5385/10000 = 53.850000 
+
+Validation set: Average loss:0.089610,Accuracy:5583/10000 = 55.830000 
+
+Validation set: Average loss:0.089288,Accuracy:5654/10000 = 56.540000 
+
+Validation set: Average loss:0.090595,Accuracy:5732/10000 = 57.320000 
+
+Validation set: Average loss:0.091736,Accuracy:5768/10000 = 57.680000 
+
+Validation set: Average loss:0.090460,Accuracy:5911/10000 = 59.110000 
+
+Validation set: Average loss:0.090484,Accuracy:5867/10000 = 58.670000 
+
+Validation set: Average loss:0.092021,Accuracy:5859/10000 = 58.590000 
+
+Validation set: Average loss:0.091074,Accuracy:5958/10000 = 59.580000 
+
+Validation set: Average loss:0.089679,Accuracy:5974/10000 = 59.740000 
+
+Validation set: Average loss:0.090686,Accuracy:6002/10000 = 60.020000 
+
+Validation set: Average loss:0.091699,Accuracy:5978/10000 = 59.780000 
+
+Validation set: Average loss:0.091479,Accuracy:5991/10000 = 59.910000 
+
+Validation set: Average loss:0.092605,Accuracy:5992/10000 = 59.920000 
+
+Validation set: Average loss:0.092218,Accuracy:6026/10000 = 60.260000 
+
+Validation set: Average loss:0.091921,Accuracy:6040/10000 = 60.400000 
+
+Validation set: Average loss:0.092414,Accuracy:6051/10000 = 60.510000 
+
+Validation set: Average loss:0.092592,Accuracy:6016/10000 = 60.160000 
+
+Validation set: Average loss:0.093126,Accuracy:6028/10000 = 60.280000 
+
+Validation set: Average loss:0.093331,Accuracy:6027/10000 = 60.270000 
+
+Validation set: Average loss:0.093860,Accuracy:6059/10000 = 60.590000 
