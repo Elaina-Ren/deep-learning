@@ -1,0 +1,203 @@
+[1,  2000] loss: 4.336,Train accuracy:5.72
+[1,  4000] loss: 3.830,Train accuracy:11.32
+[1,  6000] loss: 3.540,Train accuracy:15.86
+
+Validation set: Average loss: 0.4790, Accuracy: 2103/10000 (21%)
+
+[2,  2000] loss: 3.237,Train accuracy:20.98
+[2,  4000] loss: 3.051,Train accuracy:24.58
+[2,  6000] loss: 2.862,Train accuracy:27.78
+
+Validation set: Average loss: 0.3426, Accuracy: 3389/10000 (34%)
+
+[3,  2000] loss: 2.576,Train accuracy:33.84
+[3,  4000] loss: 2.481,Train accuracy:35.26
+[3,  6000] loss: 2.391,Train accuracy:37.49
+
+Validation set: Average loss: 0.2997, Accuracy: 4208/10000 (42%)
+
+[4,  2000] loss: 2.123,Train accuracy:42.74
+[4,  4000] loss: 2.091,Train accuracy:43.30
+[4,  6000] loss: 2.064,Train accuracy:44.36
+
+Validation set: Average loss: 0.2465, Accuracy: 4698/10000 (47%)
+
+[5,  2000] loss: 1.756,Train accuracy:51.35
+[5,  4000] loss: 1.802,Train accuracy:50.61
+[5,  6000] loss: 1.803,Train accuracy:50.74
+
+Validation set: Average loss: 0.2359, Accuracy: 4892/10000 (49%)
+
+[6,  2000] loss: 1.444,Train accuracy:58.76
+[6,  4000] loss: 1.531,Train accuracy:56.78
+[6,  6000] loss: 1.564,Train accuracy:55.71
+
+Validation set: Average loss: 0.2315, Accuracy: 5154/10000 (52%)
+
+[7,  2000] loss: 1.183,Train accuracy:65.64
+[7,  4000] loss: 1.244,Train accuracy:63.85
+[7,  6000] loss: 1.311,Train accuracy:62.04
+
+Validation set: Average loss: 0.2271, Accuracy: 5317/10000 (53%)
+
+[8,  2000] loss: 0.900,Train accuracy:73.02
+[8,  4000] loss: 1.018,Train accuracy:69.91
+[8,  6000] loss: 1.109,Train accuracy:67.60
+
+Validation set: Average loss: 0.2341, Accuracy: 5320/10000 (53%)
+
+[9,  2000] loss: 0.675,Train accuracy:79.36
+[9,  4000] loss: 0.779,Train accuracy:75.91
+[9,  6000] loss: 0.883,Train accuracy:73.09
+
+Validation set: Average loss: 0.2499, Accuracy: 5207/10000 (52%)
+
+[10,  2000] loss: 0.485,Train accuracy:85.35
+[10,  4000] loss: 0.582,Train accuracy:81.83
+[10,  6000] loss: 0.656,Train accuracy:79.85
+
+Validation set: Average loss: 0.2772, Accuracy: 5134/10000 (51%)
+
+[11,  2000] loss: 0.361,Train accuracy:88.94
+[11,  4000] loss: 0.435,Train accuracy:86.43
+[11,  6000] loss: 0.516,Train accuracy:84.10
+
+Validation set: Average loss: 0.2761, Accuracy: 5270/10000 (53%)
+
+[12,  2000] loss: 0.270,Train accuracy:91.83
+[12,  4000] loss: 0.312,Train accuracy:90.36
+[12,  6000] loss: 0.378,Train accuracy:87.74
+
+Validation set: Average loss: 0.2786, Accuracy: 5277/10000 (53%)
+
+[13,  2000] loss: 0.199,Train accuracy:94.03
+[13,  4000] loss: 0.219,Train accuracy:93.24
+[13,  6000] loss: 0.279,Train accuracy:91.30
+
+Validation set: Average loss: 0.3047, Accuracy: 5243/10000 (52%)
+
+[14,  2000] loss: 0.159,Train accuracy:95.42
+[14,  4000] loss: 0.186,Train accuracy:94.39
+[14,  6000] loss: 0.202,Train accuracy:93.76
+
+Validation set: Average loss: 0.3116, Accuracy: 5195/10000 (52%)
+
+[15,  2000] loss: 0.115,Train accuracy:96.66
+[15,  4000] loss: 0.147,Train accuracy:95.38
+[15,  6000] loss: 0.174,Train accuracy:94.66
+
+Validation set: Average loss: 0.3127, Accuracy: 5303/10000 (53%)
+
+[16,  2000] loss: 0.102,Train accuracy:97.24
+[16,  4000] loss: 0.119,Train accuracy:96.56
+[16,  6000] loss: 0.129,Train accuracy:96.16
+
+Validation set: Average loss: 0.3106, Accuracy: 5368/10000 (54%)
+
+[17,  2000] loss: 0.078,Train accuracy:97.82
+[17,  4000] loss: 0.094,Train accuracy:97.34
+[17,  6000] loss: 0.101,Train accuracy:96.94
+
+Validation set: Average loss: 0.3125, Accuracy: 5415/10000 (54%)
+
+[18,  2000] loss: 0.073,Train accuracy:97.93
+[18,  4000] loss: 0.083,Train accuracy:97.61
+[18,  6000] loss: 0.073,Train accuracy:98.06
+
+Validation set: Average loss: 0.3183, Accuracy: 5389/10000 (54%)
+
+[19,  2000] loss: 0.055,Train accuracy:98.53
+[19,  4000] loss: 0.057,Train accuracy:98.48
+[19,  6000] loss: 0.063,Train accuracy:98.35
+
+Validation set: Average loss: 0.3148, Accuracy: 5454/10000 (55%)
+
+[20,  2000] loss: 0.047,Train accuracy:98.82
+[20,  4000] loss: 0.046,Train accuracy:98.81
+[20,  6000] loss: 0.055,Train accuracy:98.43
+
+Validation set: Average loss: 0.3161, Accuracy: 5477/10000 (55%)
+
+[21,  2000] loss: 0.040,Train accuracy:98.91
+[21,  4000] loss: 0.033,Train accuracy:99.27
+[21,  6000] loss: 0.043,Train accuracy:98.86
+
+Validation set: Average loss: 0.3191, Accuracy: 5496/10000 (55%)
+
+[22,  2000] loss: 0.029,Train accuracy:99.34
+[22,  4000] loss: 0.033,Train accuracy:99.19
+[22,  6000] loss: 0.038,Train accuracy:99.07
+
+Validation set: Average loss: 0.3162, Accuracy: 5522/10000 (55%)
+
+[23,  2000] loss: 0.024,Train accuracy:99.39
+[23,  4000] loss: 0.030,Train accuracy:99.27
+[23,  6000] loss: 0.031,Train accuracy:99.34
+
+Validation set: Average loss: 0.3193, Accuracy: 5490/10000 (55%)
+
+[24,  2000] loss: 0.025,Train accuracy:99.42
+[24,  4000] loss: 0.030,Train accuracy:99.26
+[24,  6000] loss: 0.031,Train accuracy:99.23
+
+Validation set: Average loss: 0.3208, Accuracy: 5509/10000 (55%)
+
+[25,  2000] loss: 0.019,Train accuracy:99.62
+[25,  4000] loss: 0.025,Train accuracy:99.47
+[25,  6000] loss: 0.028,Train accuracy:99.33
+
+Validation set: Average loss: 0.3317, Accuracy: 5460/10000 (55%)
+
+[26,  2000] loss: 0.018,Train accuracy:99.61
+[26,  4000] loss: 0.019,Train accuracy:99.61
+[26,  6000] loss: 0.021,Train accuracy:99.56
+
+Validation set: Average loss: 0.3243, Accuracy: 5565/10000 (56%)
+
+[27,  2000] loss: 0.016,Train accuracy:99.66
+[27,  4000] loss: 0.024,Train accuracy:99.41
+[27,  6000] loss: 0.018,Train accuracy:99.61
+
+Validation set: Average loss: 0.3241, Accuracy: 5591/10000 (56%)
+
+[28,  2000] loss: 0.017,Train accuracy:99.61
+[28,  4000] loss: 0.020,Train accuracy:99.53
+[28,  6000] loss: 0.019,Train accuracy:99.56
+
+Validation set: Average loss: 0.3285, Accuracy: 5583/10000 (56%)
+
+[29,  2000] loss: 0.013,Train accuracy:99.74
+[29,  4000] loss: 0.018,Train accuracy:99.59
+[29,  6000] loss: 0.019,Train accuracy:99.59
+
+Validation set: Average loss: 0.3309, Accuracy: 5513/10000 (55%)
+
+[30,  2000] loss: 0.010,Train accuracy:99.84
+[30,  4000] loss: 0.016,Train accuracy:99.67
+[30,  6000] loss: 0.015,Train accuracy:99.69
+
+Validation set: Average loss: 0.3325, Accuracy: 5525/10000 (55%)
+
+[31,  2000] loss: 0.015,Train accuracy:99.65
+[31,  4000] loss: 0.013,Train accuracy:99.71
+[31,  6000] loss: 0.017,Train accuracy:99.59
+
+Validation set: Average loss: 0.3312, Accuracy: 5521/10000 (55%)
+
+[32,  2000] loss: 0.011,Train accuracy:99.77
+[32,  4000] loss: 0.013,Train accuracy:99.71
+[32,  6000] loss: 0.011,Train accuracy:99.79
+
+Validation set: Average loss: 0.3306, Accuracy: 5569/10000 (56%)
+
+[33,  2000] loss: 0.011,Train accuracy:99.82
+[33,  4000] loss: 0.013,Train accuracy:99.66
+[33,  6000] loss: 0.013,Train accuracy:99.72
+
+Validation set: Average loss: 0.3329, Accuracy: 5489/10000 (55%)
+
+[34,  2000] loss: 0.010,Train accuracy:99.80
+[34,  4000] loss: 0.012,Train accuracy:99.73
+[34,  6000] loss: 0.012,Train accuracy:99.78
+
+Validation set: Average loss: 0.3340, Accuracy: 5533/10000 (55%)
